@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SLagunaMiniCh#1Redo/1.0.0": {
+        "runtime": {
+          "SLagunaMiniCh#1Redo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SLagunaMiniCh#1Redo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
